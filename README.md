@@ -63,9 +63,9 @@ getgenv().config = {
         ["Melee"] = {
             ["Time"] = 2.75,
             ["Enabled"] = true,
-            ["Z"] = {["Enabled"] = true, ["HoldTime"] = 1.5},
-            ["X"] = {["Enabled"] = true, ["HoldTime"] = 0.2},
-            ["C"] = {["Enabled"] = true, ["HoldTime"] = 0.2}
+            ["Z"] = {["Enabled"] = true, ["HoldTime"] = 0.2},
+            ["X"] = {["Enabled"] = true, ["HoldTime"] = 0.1},
+            ["C"] = {["Enabled"] = true, ["HoldTime"] = 2}
         },
         ["Fruit"] = {
             ["Time"] = 1,
@@ -79,8 +79,8 @@ getgenv().config = {
         ["Sword"] = {
             ["Time"] = 1.4,
             ["Enabled"] = true,
-            ["Z"] = {["Enabled"] = true, ["HoldTime"] = 0.18},
-            ["X"] = {["Enabled"] = true, ["HoldTime"] = 0.26},
+            ["Z"] = {["Enabled"] = true, ["HoldTime"] = 1.5},
+            ["X"] = {["Enabled"] = true, ["HoldTime"] = 0.5},
         },
         ["Gun"] = {
             ["Time"] = 2,
