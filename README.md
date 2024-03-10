@@ -1,5 +1,3 @@
-# synergy
-
 getgenv().config = {
     --[[
         true: enable (bật) / false: disable (tắt)
